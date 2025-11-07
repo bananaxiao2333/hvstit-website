@@ -1,227 +1,227 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <loc>None./</loc>
+        <loc>Noneindex.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="None"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneindex.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/index.html"/>
     </url>
     <url>
-        <loc>Nonelog/</loc>
+        <loc>Nonelog/index.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonelog/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/log/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonelog/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/log/index.html"/>
     </url>
     <url>
-        <loc>Nonelog/2025/11-7-report-1/</loc>
+        <loc>Nonelog/2025/11-7-report-1.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonelog/2025/11-7-report-1/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/log/2025/11-7-report-1/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonelog/2025/11-7-report-1.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/log/2025/11-7-report-1.html"/>
     </url>
     <url>
-        <loc>Noneprojects/</loc>
+        <loc>Noneprojects/index.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneprojects/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/projects/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneprojects/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/projects/index.html"/>
     </url>
     <url>
-        <loc>Noneprojects/computer/</loc>
+        <loc>Noneprojects/computer/index.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneprojects/computer/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/projects/computer/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneprojects/computer/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/projects/computer/index.html"/>
     </url>
     <url>
-        <loc>Noneprojects/rocket/</loc>
+        <loc>Noneprojects/rocket/index.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneprojects/rocket/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/projects/rocket/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneprojects/rocket/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/projects/rocket/index.html"/>
     </url>
     <url>
-        <loc>Noneprojects/smart-school/</loc>
+        <loc>Noneprojects/smart-school/index.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneprojects/smart-school/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/projects/smart-school/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneprojects/smart-school/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/projects/smart-school/index.html"/>
     </url>
     <url>
-        <loc>Noneteam/</loc>
+        <loc>Noneteam/index.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/index.html"/>
     </url>
     <url>
-        <loc>Noneteam/participants/liangzekun/</loc>
+        <loc>Noneteam/participants/liangzekun.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/participants/liangzekun/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/participants/liangzekun/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/participants/liangzekun.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/participants/liangzekun.html"/>
     </url>
     <url>
-        <loc>Noneteam/participants/xuzihao/</loc>
+        <loc>Noneteam/participants/xuzihao.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/participants/xuzihao/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/participants/xuzihao/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/participants/xuzihao.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/participants/xuzihao.html"/>
     </url>
     <url>
-        <loc>Noneteam/participants/yangyicheng/</loc>
+        <loc>Noneteam/participants/yangyicheng.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/participants/yangyicheng/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/participants/yangyicheng/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/participants/yangyicheng.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/participants/yangyicheng.html"/>
     </url>
     <url>
-        <loc>Noneteam/team-member/lingzhiyang/</loc>
+        <loc>Noneteam/team-member/lingzhiyang.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/team-member/lingzhiyang/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/team-member/lingzhiyang/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/team-member/lingzhiyang.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/team-member/lingzhiyang.html"/>
     </url>
     <url>
-        <loc>Noneteam/team-member/xiaoziyang/</loc>
+        <loc>Noneteam/team-member/xiaoziyang.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/team-member/xiaoziyang/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/team-member/xiaoziyang/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/team-member/xiaoziyang.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/team-member/xiaoziyang.html"/>
     </url>
     <url>
-        <loc>Noneteam/team-member/yueyunlang/</loc>
+        <loc>Noneteam/team-member/yueyunlang.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/team-member/yueyunlang/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/team-member/yueyunlang/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/team-member/yueyunlang.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/team-member/yueyunlang.html"/>
     </url>
     <url>
-        <loc>Noneteam/team-member/zhangyingfa/</loc>
+        <loc>Noneteam/team-member/zhangyingfa.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/team-member/zhangyingfa/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/team-member/zhangyingfa/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/team-member/zhangyingfa.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/team-member/zhangyingfa.html"/>
     </url>
     <url>
-        <loc>Noneteam/team-member/zhaobokai/</loc>
+        <loc>Noneteam/team-member/zhaobokai.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/team-member/zhaobokai/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/team-member/zhaobokai/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/team-member/zhaobokai.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/team-member/zhaobokai.html"/>
     </url>
     <url>
-        <loc>Noneen/</loc>
+        <loc>Noneen/index.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="None"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneindex.html"/>
     </url>
     <url>
-        <loc>Noneen/log/</loc>
+        <loc>Noneen/log/index.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/log/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonelog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/log/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonelog/index.html"/>
     </url>
     <url>
-        <loc>Noneen/log/2025/11-7-report-1/</loc>
+        <loc>Noneen/log/2025/11-7-report-1.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/log/2025/11-7-report-1/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonelog/2025/11-7-report-1/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/log/2025/11-7-report-1.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonelog/2025/11-7-report-1.html"/>
     </url>
     <url>
-        <loc>Noneen/projects/</loc>
+        <loc>Noneen/projects/index.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/projects/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneprojects/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/projects/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneprojects/index.html"/>
     </url>
     <url>
-        <loc>Noneen/projects/computer/</loc>
+        <loc>Noneen/projects/computer/index.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/projects/computer/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneprojects/computer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/projects/computer/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneprojects/computer/index.html"/>
     </url>
     <url>
-        <loc>Noneen/projects/rocket/</loc>
+        <loc>Noneen/projects/rocket/index.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/projects/rocket/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneprojects/rocket/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/projects/rocket/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneprojects/rocket/index.html"/>
     </url>
     <url>
-        <loc>Noneen/projects/smart-school/</loc>
+        <loc>Noneen/projects/smart-school/index.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/projects/smart-school/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneprojects/smart-school/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/projects/smart-school/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneprojects/smart-school/index.html"/>
     </url>
     <url>
-        <loc>Noneen/team/</loc>
+        <loc>Noneen/team/index.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/index.html"/>
     </url>
     <url>
-        <loc>Noneen/team/participants/liangzekun/</loc>
+        <loc>Noneen/team/participants/liangzekun.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/participants/liangzekun/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/participants/liangzekun/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/participants/liangzekun.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/participants/liangzekun.html"/>
     </url>
     <url>
-        <loc>Noneen/team/participants/xuzihao/</loc>
+        <loc>Noneen/team/participants/xuzihao.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/participants/xuzihao/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/participants/xuzihao/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/participants/xuzihao.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/participants/xuzihao.html"/>
     </url>
     <url>
-        <loc>Noneen/team/participants/yangyicheng/</loc>
+        <loc>Noneen/team/participants/yangyicheng.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/participants/yangyicheng/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/participants/yangyicheng/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/participants/yangyicheng.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/participants/yangyicheng.html"/>
     </url>
     <url>
-        <loc>Noneen/team/team-member/lingzhiyang/</loc>
+        <loc>Noneen/team/team-member/lingzhiyang.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/team-member/lingzhiyang/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/team-member/lingzhiyang/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/team-member/lingzhiyang.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/team-member/lingzhiyang.html"/>
     </url>
     <url>
-        <loc>Noneen/team/team-member/xiaoziyang/</loc>
+        <loc>Noneen/team/team-member/xiaoziyang.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/team-member/xiaoziyang/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/team-member/xiaoziyang/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/team-member/xiaoziyang.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/team-member/xiaoziyang.html"/>
     </url>
     <url>
-        <loc>Noneen/team/team-member/yueyunlang/</loc>
+        <loc>Noneen/team/team-member/yueyunlang.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/team-member/yueyunlang/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/team-member/yueyunlang/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/team-member/yueyunlang.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/team-member/yueyunlang.html"/>
     </url>
     <url>
-        <loc>Noneen/team/team-member/zhangyingfa/</loc>
+        <loc>Noneen/team/team-member/zhangyingfa.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/team-member/zhangyingfa/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/team-member/zhangyingfa/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/team-member/zhangyingfa.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/team-member/zhangyingfa.html"/>
     </url>
     <url>
-        <loc>Noneen/team/team-member/zhaobokai/</loc>
+        <loc>Noneen/team/team-member/zhaobokai.html</loc>
         <lastmod>2025-11-07</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/team-member/zhaobokai/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/team-member/zhaobokai/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/team/team-member/zhaobokai.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneteam/team-member/zhaobokai.html"/>
     </url>
 </urlset>
