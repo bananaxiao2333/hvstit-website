@@ -50,13 +50,13 @@ plugins:
           site_name: 维科创组主站
           admonition_translations:
             warning: 注意
-          extra:
-            consent:
-              title: localStorage
-              actions:
-                - accept
-              description: >-
-                我们使用localStorage存储客户端信息
+          # extra:
+          #   consent:
+          #     title: localStorage
+          #     actions:
+          #       - accept
+          #     description: >-
+          #       我们使用localStorage存储客户端信息
           nav_translations:
             Projects: 项目
             Rocket: 火箭项目
@@ -95,13 +95,13 @@ plugins:
           site_author: VHSTIT
           site_description: Victoria Harbour Science and Technology Innovation Team
           site_name: VHSTIT Main Site
-          extra:
-            consent:
-              title: localStorage Usage
-              actions:
-                - accept
-              description: >-
-                We use localStorage to storage client data
+          # extra:
+          #   consent:
+          #     title: localStorage Usage
+          #     actions:
+          #       - accept
+          #     description: >-
+          #       We use localStorage to storage client data
           nav_translations:
             Projects: Projects
             Rocket: Rocket Project
