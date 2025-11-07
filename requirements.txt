@@ -1,0 +1,8 @@
+mkdocs
+mkdocs-document-dates
+mkdocs-glightbox
+mkdocs-macros-plugin
+mkdocs-material
+mkdocs-minify-plugin
+mkdocs-static-i18n
+pymdown-extensions
