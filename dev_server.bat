@@ -1,0 +1,1 @@
+.venv\Scripts\python -m mkdocs serve --livereload

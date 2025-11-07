@@ -1,0 +1,207 @@
+site_name: 维科创组VHSIT
+theme:
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  font: false
+  name: material
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      primary: teal
+      toggle:
+        icon: material/brightness-auto
+        name: Bright
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      toggle:
+        icon: material/brightness-7
+        name: Dark
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      toggle:
+        icon: material/brightness-4
+        name: System
+  features:
+    - navigation.footer
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.prune
+    - navigation.indexes
+    - toc.follow
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: zh
+          default: true
+          name: 中文
+          build: true
+          site_author: 维科创组
+          site_description: 维港科技创新小组
+          site_name: 维科创组主站
+          admonition_translations:
+            warning: 注意
+          extra:
+            consent:
+              title: localStorage
+              actions:
+                - accept
+              description: >-
+                我们使用localStorage存储客户端信息
+          nav_translations:
+            Projects: 项目
+            Rocket: 火箭项目
+            Log: 日志
+            Team: 团队
+            Computer: 光纤计算机
+            Rocket: 火箭
+            Smart school: 智慧校园
+            Team member: 组员
+            Participants: 参与者
+          theme:
+            palette:
+              # Palette toggle for automatic mode
+              - media: "(prefers-color-scheme)"
+                primary: teal
+                toggle:
+                  icon: material/brightness-auto
+                  name: 明亮
+              # Palette toggle for light mode
+              - media: "(prefers-color-scheme: light)"
+                scheme: default
+                primary: teal
+                toggle:
+                  icon: material/brightness-7
+                  name: 黑暗
+              # Palette toggle for dark mode
+              - media: "(prefers-color-scheme: dark)"
+                scheme: slate
+                primary: teal
+                toggle:
+                  icon: material/brightness-4
+                  name: 系统
+        - locale: en
+          name: English
+          build: true
+          site_author: VHSTIT
+          site_description: Victoria Harbour Science and Technology Innovation Team
+          site_name: VHSTIT Main Site
+          extra:
+            consent:
+              title: localStorage Usage
+              actions:
+                - accept
+              description: >-
+                We use localStorage to storage client data
+          nav_translations:
+            Projects: Projects
+            Rocket: Rocket Project
+            Log: Logs
+            Team: Team
+            Computer: Optical Fiber Computer
+            Rocket: Rocket
+            Smart school: Smart Campus
+            Team member: Members
+            Participants: Participants
+          theme:
+            palette:
+              # Palette toggle for automatic mode
+              - media: "(prefers-color-scheme)"
+                primary: teal
+                toggle:
+                  icon: material/brightness-auto
+                  name: Bright
+              # Palette toggle for light mode
+              - media: "(prefers-color-scheme: light)"
+                scheme: default
+                primary: teal
+                toggle:
+                  icon: material/brightness-7
+                  name: Dark
+              # Palette toggle for dark mode
+              - media: "(prefers-color-scheme: dark)"
+                scheme: slate
+                primary: teal
+                toggle:
+                  icon: material/brightness-4
+                  name: System
+  - search:
+      separator: '[\s\u200b\-]'
+  - tags
+  - glightbox
+  - document-dates:
+      position: top            # 显示位置：top（标题后） bottom（文档末尾）
+      type: timeage               # 时间类型：date datetime timeago，默认：date
+      exclude:
+        - index.zh.md
+        - index.en.md
+        - log/index.zh.md
+        - log/index.en.md
+        - projects/*
+        - team/index.zh.md
+        - team/index.en.md
+      date_format: '%Y-%m-%d'  # 日期格式化字符串，例如：%Y年%m月%d日、%b %d, %Y
+      time_format: '%H:%M:%S'  # 时间格式化字符串（仅在 type=datetime 时有效）
+      show_author: false        # 是否显示作者信息，默认：true
+  - macros
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+          remove_comments: true
+      cache_safe: true
+  - offline
+  # - exporter:
+  #     formats:
+  #       pdf:
+  #         enabled: !ENV [MKDOCS_EXPORTER_PDF, true]
+  #         concurrency: 8
+  #         aggregator:
+  #           enabled: true
+  #           output: .well-known/site.pdf
+  #           covers: all
+
+extra:
+  social:
+    - icon: fontawesome/brands/qq
+      link: https://qq.com
+  generator: false
+copyright: Copyright &copy; 2025 VHSTIT
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - tables
+  - pymdownx.blocks.caption
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.critic
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.details
+  - footnotes
+
+#https://ultrabug.github.io/mkdocs-static-i18n/getting-started/installation/
+#https://squidfunk.github.io/mkdocs-material/setup/changing-the-language/
