@@ -9,6 +9,18 @@ tags:
 ## 概述
 本周期内，小组围绕[火箭研发项目](../../projects/rocket/index.md)启动初期核心任务有序推进，完成了从概念认知到初步实践的关键铺垫。
 
+## 相册
+
+<figure markdown="span">
+  ![进行外形设计](1762532048837.jpg){ loading=lazy }
+  <figcaption>进行外形设计</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![处理前端文件](1762532051449.jpg){ loading=lazy }
+  <figcaption>处理前端文件</figcaption>
+</figure>
+
 ## 详细进展
 
 ### 1. 核心技术探索与构造设计
@@ -25,5 +37,6 @@ tags:
 
 ## 总结
 首周工作通过认知积累、跨界沟通与实践探索，明确了发展路径，为后续构造优化、燃料研发及项目推进奠定了坚实基础。
+
 
 [^1]: 指本站页面

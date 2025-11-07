@@ -4,26 +4,38 @@ tags:
   - Log
   - Weekly report
 ---
-# First Week Progress Report of the Project
+# Project First Week Progress Report
 
 ## Overview
-During this period, the team proceeded in an orderly manner around the initial core tasks of the [Rocket R&D Project](../../projects/rocket/index.md), completing the key groundwork from conceptual understanding to preliminary practice.
+During this period, the team has systematically advanced the core tasks in the initial phase of the [Rocket R&D Project](../../projects/rocket/index.md), completing key preparations from conceptual understanding to preliminary practice.
+
+## Photo Gallery
+
+<figure markdown="span">
+  ![Working on exterior design](1762532048837.jpg){ loading=lazy }
+  <figcaption>Working on exterior design</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Processing frontend files](1762532051449.jpg){ loading=lazy }
+  <figcaption>Processing frontend files</figcaption>
+</figure>
 
 ## Detailed Progress
 
 ### 1. Core Technology Exploration and Structural Design
-- **Systematic Cognition Building**: Starting with the "overall R&D logic of rockets", a basic cognitive framework for rocket flight principles, core modules, and design specifications was systematically established by studying professional literature, disassembling classic models, and sorting out cutting-edge cases.
-- **Preliminary Scheme Formation**: Team members collaborated, conducted brainstorming and sketching from key dimensions such as aerodynamic layout, structural strength, and functional cabin adaptability, and formed a prototype of the structural scheme.
+- **Systematic Knowledge Building**: Using "rocket overall R&D logic" as the starting point, built a foundational cognitive framework for rocket flight principles, core modules, and design specifications through studying professional literature, analyzing classic models, and reviewing cutting-edge cases.
+- **Preliminary Plan Formation**: Team members collaborated with division of labor, conducting brainstorming and sketch design from key dimensions such as aerodynamic layout, structural strength, and functional module compatibility, forming the prototype of structural solutions.
 
-### 2. Feasibility Demonstration of Fuel Selection
-- **Special Seminar**: [Xu Zihao](../../team/participants/xuzihao.md), a member from the chemical field, was invited to participate in an in-depth discussion on the technical characteristics and application scenarios of liquid/solid/hybrid fuels in terms of key indicators such as power requirements, energy density, and safety.
-- **Clarified Technical Path**: The core constraints were clarified, and a step-by-step promotion strategy of "**first verifying the feasibility of basic fuels, then exploring new fuel optimizations**" was determined, pointing out the direction for subsequent research.
+### 2. Fuel Selection Feasibility Study
+- **Specialized Seminar**: Invited chemistry team member [Xu Zihao](../../team/participants/xuzihao.md) to participate, deeply discussing the technical characteristics and application scenarios of liquid/solid/hybrid fuels based on key indicators such as power requirements, energy density, and safety.
+- **Clear Technical Path**: Clarified core constraints and established a phased advancement strategy of "**first verifying basic fuel feasibility, then exploring new fuel optimization**", providing direction for subsequent breakthroughs.
 
-### 3. Project Publicity and Achievement Precipitation
-- **Exclusive Webpage Construction**: Completed the design of the page structure, column division, and filling of basic content with the core of "progress synchronization, achievement display, and team style".
-- **Preliminary Launch**: The core pages[^1] have been deployed, establishing an important platform for external communication and achievement display of the project.
+### 3. Project Promotion and Achievement Documentation
+- **Dedicated Webpage Setup**: Completed page architecture design, section division, and basic content population centered around "progress synchronization, achievement display, and team highlights".
+- **Initial Launch**: Core pages have been deployed[^1], establishing an important platform for project external communication and result demonstration.
 
 ## Summary
-The work in the first week clarified the development path through cognitive accumulation, cross-border communication, and practical exploration, laying a solid foundation for subsequent structural optimization, fuel research and development, and project promotion.
+The first week's work, through knowledge accumulation, cross-disciplinary communication, and practical exploration, has clarified the development path, laying a solid foundation for subsequent structural optimization, fuel R&D, and project advancement.
 
-[^1]: This site page
+[^1]: Referring to this site's pages

@@ -7,7 +7,7 @@ hide:
 
 !!! info inline end ""
 
-    ![](assets/logo.png)
+    ![](assets/logo.png){ loading=lazy }
 
 欢迎访问维港科技创新小组（VHSTIT）的官方主页。我们是直辖于暨大港澳子弟学校（Affiliated School of JNU for Hong Kong and Macao's Students，简称ASJ）校级的科技创新团队，致力于通过跨学科协作与前沿技术研究推动科技创新与学术进步。
 
