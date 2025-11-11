@@ -1,7 +1,7 @@
 site_name: 维科创组VHSIT
-repo_url: https://github.com/bananaxiao2333/hvstit-website
-repo_name: hvstit-website
-edit_uri: tree/main/docs
+# repo_url: https://github.com/bananaxiao2333/hvstit-website
+# repo_name: hvstit-website
+# edit_uri: tree/main/docs
 theme:
   logo: assets/logo.png
   favicon: assets/logo.png
