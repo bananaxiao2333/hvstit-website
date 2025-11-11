@@ -138,6 +138,11 @@ plugins:
       separator: '[\s\u200b\-]'
   - tags
   - glightbox
+  # - recently-updated:
+  #     limit: 10          # Limit the number of docs displayed
+  #     exclude:           # List of excluded files
+  #       - 11-10-report-2.md       # Exclude specific file
+  #     template: docs/templates/lastupdate.html    # Custom rendering template
   - document-dates:
       position: top            # 显示位置：top（标题后） bottom（文档末尾）
       type: timeage               # 时间类型：date datetime timeago，默认：date

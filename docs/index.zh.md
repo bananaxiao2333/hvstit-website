@@ -59,3 +59,5 @@ hide:
 </div>
 
 <font color="Gray">最后编译时间 {{get_time()}}</font>
+
+<!-- RECENTLY_UPDATED_DOCS -->
