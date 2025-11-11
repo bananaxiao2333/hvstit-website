@@ -1,4 +1,7 @@
 site_name: 维科创组VHSIT
+repo_url: https://github.com/bananaxiao2333/hvstit-website
+repo_name: hvstit-website
+edit_uri: tree/main/docs
 theme:
   logo: assets/logo.png
   favicon: assets/logo.png
@@ -36,6 +39,7 @@ theme:
     - navigation.top
     - search.suggest
     - search.highlight
+    - content.action.view
 
 plugins:
   - i18n:
@@ -206,6 +210,7 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.details
   - footnotes
+
 
 #https://ultrabug.github.io/mkdocs-static-i18n/getting-started/installation/
 #https://squidfunk.github.io/mkdocs-material/setup/changing-the-language/
