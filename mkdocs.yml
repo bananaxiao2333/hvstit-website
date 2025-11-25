@@ -3,8 +3,8 @@ site_name: 维科创组VHSIT
 # repo_name: hvstit-website
 # edit_uri: tree/main/docs
 theme:
-  logo: assets/logo.png
-  favicon: assets/logo.png
+  logo: assets/logo.jpg
+  favicon: assets/logo.jpg
   font: false
   name: material
   palette:

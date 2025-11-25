@@ -7,7 +7,7 @@ hide:
 
 !!! info inline end ""
 
-    ![](assets/logo.png){ loading=lazy }
+    ![](assets/logo.jpg){ loading=lazy }
 
 Welcome to the official homepage of the Victoria Harbour Science and Technology Innovation Team (VHSTIT). We are a technology innovation team directly affiliated with the Affiliated School of JNU for Hong Kong and Macao's Students (ASJ) at the school level, dedicated to advancing technology and research through interdisciplinary collaboration and cutting-edge projects.
 
