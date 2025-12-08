@@ -1,0 +1,34 @@
+---
+date: 2025-12-08
+tags:
+  - Log
+  - Weekly Report
+---
+
+# Project Fifth Week Progress Report
+
+This week, the research team focused on advancing the core work of the "Weike-2" rocket airframe. The design phase centered on aerodynamic performance and structural strength, comprehensively considering flight stability and printing feasibility, optimizing the airframe streamlined curvature, selecting high-strength lightweight material formulations to avoid stress concentration issues after printing. The 3D printing of the airframe has completed the bottom section, with the remaining middle and top sections expected to be completed early next week.
+
+## Design Optimization and Material Selection
+
+The design phase centered on aerodynamic performance and structural strength, comprehensively considering flight stability and printing feasibility, optimizing the airframe streamlined curvature, selecting high-strength lightweight material formulations to avoid stress concentration issues after printing. Through computational fluid dynamics simulation verification, the new design scheme improves flight stability while effectively reducing air resistance.
+
+## 3D Printing Progress
+
+The 3D printing of the airframe has completed the bottom section, with the remaining middle and top sections expected to be completed early next week. The printing process uses layered curing technology to ensure full fusion of each layer, improving overall structural strength. The completed sections have passed 3D scanning inspection, with dimensional accuracy and surface quality meeting design requirements.
+
+## Equipment Procurement and Selection
+
+Procurement activities proceed simultaneously, with sensor screening focusing on measurement range and response speed as core criteria, prioritizing models resistant to high/low temperatures and vibration, while cameras emphasize high-definition shooting and anti-shake performance. We have contacted 3 suppliers to compare parameters and quotes. Comprehensive evaluation of technical parameters is currently underway, with final supplier selection expected next week.
+
+## Parachute System Optimization
+
+Regarding the parachute timing deployment device, we specifically consulted aerospace technical personnel to understand the timer and pressure sensor linkage scheme, delay accuracy calibration methods, and failure emergency design key points. Through technical exchanges, we clarified the redundant design approach to ensure reliable parachute deployment even under extreme conditions.
+
+## Fuel System Customization
+
+Fuel pipe customization 明确了核心要求: inner diameter 适配 fuel delivery flow rate, pipe wall 需具备 fuel corrosion resistance, high temperature resistance 特性, interface 采用密封式设计防止泄漏, 目前已向厂家提交详细参数图纸, 等待样品测试. Upon sample arrival, pressure testing and corrosion resistance verification will be conducted to ensure the safety and reliability of the fuel delivery system.
+
+## Summary
+
+The fifth week's work achieved substantial progress in airframe design, manufacturing preparation, and system integration, laying a solid foundation for the final assembly of "Weike-2". The optimization of various technical parameters and rigorous advancement of equipment selection reflect the team's high emphasis on rocket reliability and safety.
