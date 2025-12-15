@@ -1,0 +1,34 @@
+---
+date: 2025-12-15
+tags:
+  - Log
+  - Weekly Report
+---
+
+# Project Sixth Week Progress Report
+
+This week's core work focused on "Weike-2" launch preparations, with key emphasis on advancing airframe structural component 3D printing and parachute troubleshooting and optimization.
+
+## Airframe 3D Printing Completion
+
+The airframe 3D printing process was initiated strictly according to preset structural parameters and material standards. During printing, we monitored printing temperature, layer thickness accuracy, and forming rate in real-time, adjusting the print head movement trajectory to avoid common defects such as layer separation and edge warping. Ultimately, the main airframe structural components were successfully printed, meeting all design requirements through dimensional measurement and strength verification, laying the foundation for subsequent assembly work.
+
+## Parachute System Troubleshooting
+
+Regarding the previous technical issue of parachute deployment failure, we conducted specialized troubleshooting this week. Through fault review and stress analysis, it was determined that insufficient sensor accuracy and trigger signal delay were the main causes. Accordingly, the team procured high-precision altitude sensors and high-definition cameras; the former for accurately capturing rocket flight altitude, while the latter can record the entire launch and landing process in real-time and trigger parachute deployment through reverse analysis, facilitating subsequent fault tracing and parameter optimization. Currently, the sensors have completed procurement acceptance and await installation debugging and ground simulation testing next week, while the camera has been tested with confirmed maximum connection range of approximately 80 meters.
+
+## Equipment Testing and Verification
+
+The newly procured sensor equipment has completed preliminary acceptance testing. The altitude sensor demonstrates good stability under different environmental conditions, with measurement accuracy meeting design requirements. Wireless transmission distance testing of the high-definition camera shows effective connection up to 80 meters in open environments, fully meeting the real-time monitoring needs for the entire rocket flight.
+
+## Outstanding Issues and Improvement Directions
+
+Although this week's work achieved phased progress, some areas still require improvement, such as enhancing the surface finish of 3D printed components and further verifying the compatibility between sensors and the rocket control system. Resolving these issues will directly impact the overall performance and reliability of the rocket.
+
+## Next Week's Plan
+
+Next week will focus on resolving the above issues while initiating the integration and assembly of various rocket components, with a potential launch planned. Specific tasks include: optimizing surface treatment processes for 3D printed components, completing joint debugging tests of sensors and control systems, conducting rocket final assembly, and performing pre-launch inspections.
+
+## Summary
+
+The sixth week achieved significant progress in key problem breakthroughs and equipment integration. The technical challenges of the parachute system were effectively resolved, clearing major obstacles for the successful launch of "Weike-2". The team will continue to advance all work with rigorous attitude to ensure the smooth completion of the launch mission.
