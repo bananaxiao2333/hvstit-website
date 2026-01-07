@@ -1,10 +1,9 @@
 # 团队
 
-<figure markdown="span">
+<!-- <figure markdown="span">
   ![组员](team.png){ loading=lazy }
   <figcaption>组员照片</figcaption>
-</figure>
-
+</figure> -->
 
 ## **团队简介**
 

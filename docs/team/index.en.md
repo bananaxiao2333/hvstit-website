@@ -1,9 +1,9 @@
 # Team
 
-<figure markdown="span">
+<!-- <figure markdown="span">
   ![Team member](team.png){ loading=lazy }
   <figcaption>Team member picture</figcaption>
-</figure>
+</figure> -->
 
 ## **Team Introduction**
 
