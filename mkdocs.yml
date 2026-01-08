@@ -147,20 +147,20 @@ plugins:
   #     exclude:           # List of excluded files
   #       - 11-10-report-2.md       # Exclude specific file
   #     template: docs/templates/lastupdate.html    # Custom rendering template
-  - document-dates:
-      position: top            # 显示位置：top（标题后） bottom（文档末尾）
-      type: timeage               # 时间类型：date datetime timeago，默认：date
-      exclude:
-        - index.zh.md
-        - index.en.md
-        - log/index.zh.md
-        - log/index.en.md
-        - projects/*
-        - team/index.zh.md
-        - team/index.en.md
-      date_format: '%Y-%m-%d'  # 日期格式化字符串，例如：%Y年%m月%d日、%b %d, %Y
-      time_format: '%H:%M:%S'  # 时间格式化字符串（仅在 type=datetime 时有效）
-      show_author: false        # 是否显示作者信息，默认：true
+  # - document-dates:
+  #     position: top            # 显示位置：top（标题后） bottom（文档末尾）
+  #     type: timeage               # 时间类型：date datetime timeago，默认：date
+  #     exclude:
+  #       - index.zh.md
+  #       - index.en.md
+  #       - log/index.zh.md
+  #       - log/index.en.md
+  #       - projects/*
+  #       - team/index.zh.md
+  #       - team/index.en.md
+  #     date_format: '%Y-%m-%d'  # 日期格式化字符串，例如：%Y年%m月%d日、%b %d, %Y
+  #     time_format: '%H:%M:%S'  # 时间格式化字符串（仅在 type=datetime 时有效）
+  #     show_author: false        # 是否显示作者信息，默认：true
   - macros
   - minify:
       minify_html: true
@@ -185,6 +185,8 @@ extra:
       link: https://qq.com
   generator: false
 copyright: Copyright &copy; 2025 VHSTIT
+extra_javascript:
+  - js/mermaid/mermaid.min.js
 markdown_extensions:
   - abbr
   - admonition
