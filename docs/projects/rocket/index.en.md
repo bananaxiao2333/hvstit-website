@@ -1,6 +1,7 @@
 # Rocket Launch Project
 
 Modified from: Victoria Harbour Science and Technology Innovation Team "Campus Panoramic Aerial Rocket" Project Proposal
+<!-- material/tags { include: [Rocket] } -->
 
 ## Project Background and Significance
 
