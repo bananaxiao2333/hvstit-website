@@ -140,7 +140,7 @@ plugins:
                   name: System
   - search:
       separator: '[\s\u200b\-]'
-  - git-revision-date-localized
+  #- git-revision-date-localized
   - tags
   - glightbox
   # - recently-updated:
