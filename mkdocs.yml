@@ -71,6 +71,7 @@ plugins:
             Smart school: 智慧校园
             Team member: 组员
             Participants: 参与者
+            Dept: 部门
           theme:
             palette:
               # Palette toggle for automatic mode
@@ -116,6 +117,7 @@ plugins:
             Smart school: Smart Campus
             Team member: Members
             Participants: Participants
+            Dept: Departments
           theme:
             palette:
               # Palette toggle for automatic mode
