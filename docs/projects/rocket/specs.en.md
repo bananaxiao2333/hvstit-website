@@ -1,22 +1,4 @@
 # Rocket Project Related Supplementary Information
-> This entry is pending supplementation
-
-## Rocket Development Timeline
-
-```mermaid
-timeline
-    title Weike Rocket Development History
-    section Research & Development
-        Weike-0 (Experimental) : Early Test Model : Laid foundation for self-developed housing
-        Weike-1 (Experimental) : First Test Flight : Successfully launched, established baseline dimensions
-        Weike-2 : Self-developed Housing : Successfully launched, more complex dimensions
-        Weike-1 (Production) : Improved Version : Enhanced from experimental version
-    section Fuel Development
-        Fuel Type 1 : Purchased Online : Safe fuel
-        Fuel Type 2 : Purchased Online : Enhanced version of Type 1
-        Fuel Type 3 : Self-developed : Solid fuel, tested
-        Fuel Type 4 : Testing Phase : Based on Type 3 optimization
-```
 
 ## Rocket Model Specifications
 

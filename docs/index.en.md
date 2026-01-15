@@ -19,9 +19,9 @@ VHSTIT adheres to the philosophy of "technology-driven innovation, practice achi
 
 Currently, we are actively advancing three core projects:
 
-1. [**Rocket Launch Project**](../projects/rocket): A pioneering aerospace engineering project aimed at developing sustainable and efficient propulsion systems for small-scale aerospace applications, achieving precise altitude control flight and panoramic imaging.
-2. [**Smart Campus System**](../projects/smart-school): An integrated platform based on IoT and AI technologies designed to optimize campus operational efficiency and enhance intelligent campus management.
-3. [**Fiber-Optic Computer**](../projects/computer): A breakthrough computing technology research focused on leveraging optical computing principles to achieve unprecedented data processing speeds and energy efficiency.
+1. [**Rocket Launch Project**](projects/rocket/index.md): A pioneering aerospace engineering project aimed at developing sustainable and efficient propulsion systems for small-scale aerospace applications, achieving precise altitude control flight and panoramic imaging.
+2. [**Smart Campus System**](projects/smart-school/index.md): An integrated platform based on IoT and AI technologies designed to optimize campus operational efficiency and enhance intelligent campus management.
+3. [**Fiber-Optic Computer**](projects/computer/index.md): A breakthrough computing technology research focused on leveraging optical computing principles to achieve unprecedented data processing speeds and energy efficiency.
 
 ## Team Composition
 
